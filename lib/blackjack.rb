@@ -9,6 +9,7 @@ def deal_card
   return rand(1..11)
 end
 
+
 def prompt_user
   # code #prompt_user here
   puts "Type 'h' to hit or 's' to stay"
