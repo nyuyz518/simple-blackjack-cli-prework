@@ -36,6 +36,21 @@ def initial_round
   return sum 
 end
 
+def hit (card_total)
+  prompt_user
+  get_user_input
+  if s 
+    
+  elsif h 
+    deal_card += 
+  else 
+
+
+def invalid_command
+  puts p
+  
+
+
 def hit? (card_total)
  prompt_user
  input = get_user_input
